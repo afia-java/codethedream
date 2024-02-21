@@ -9,4 +9,5 @@ Lesson 3.2: JavaScript and the DOM
 Lesson 3.3: HTML Forms and DOM Practice
 Lesson 3.4: CSS Basics
 Lesson 3.5: CSS Layout
+
  
